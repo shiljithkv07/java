@@ -9,6 +9,7 @@ public class Armstrong
 		int num= sc.nextInt();
 		int num1=num;
 		int original_num=num1;
+		System.out.println("work all done");
 	
 		while(num>0)
 		{
