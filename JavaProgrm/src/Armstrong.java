@@ -32,6 +32,7 @@ public class Armstrong
 		}
 		else 
 		System.out.println("not a armstrong");
+		System.out.println("not a armstrong");
 	}
 	
 }
