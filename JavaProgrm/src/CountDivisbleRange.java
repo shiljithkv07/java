@@ -15,6 +15,7 @@ public class CountDivisbleRange
 				count++;
 		}
 	System.out.println("The no. of digits divisible by 3 & 7 are:"+count);
+	System.out.println("The no. of digits divisible by 3 & 7 are:"+count);
 	}
 	
 }
